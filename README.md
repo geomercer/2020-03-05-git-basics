@@ -1,4 +1,4 @@
-#  Git Basics
+# 2020-03-05 Git Basics Training
 
 ## Local
 

@@ -15,7 +15,7 @@
 - `checkout` : whatever
 - `diff` : difference between two versions in git
 
-## Remotes
+## Remotes are here
 
 - `push`: Send code to our remote
 - `remote` : Anywhere you didnt 'init' or 'clone'

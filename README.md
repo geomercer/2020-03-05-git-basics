@@ -7,3 +7,8 @@
 - `commit -m` commit with a one liner and no editor bringup
 - `staging` staging or adding a file to the staging or index area
 - `diff` difference between two versions in git
+- `log:` look at the history
+	- `log --oneline` : only get the onelive view
+	- `log --oneline : --graph --decorate --all` : see everything only get the onelive view
+- `checkout` : whatever
+- `diff` difference between two versions in git

@@ -11,4 +11,6 @@
 	- `log --oneline` : only get the onelive view
 	- `log --oneline : --graph --decorate --all` : see everything only get the onelive view
 - `checkout` : whatever
-- `diff` difference between two versions in git
+- `diff` : difference between two versions in git
+- `push`: Send code to our remote
+- `remote` : Anywhere you didnt 'init' or 'clone'

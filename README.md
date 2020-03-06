@@ -1,4 +1,4 @@
-# 2020-03-05 Git Basics
+#  Git Basics
 
 ## Local
 

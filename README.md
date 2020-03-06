@@ -19,3 +19,4 @@
 
 - `push`: Send code to our remote
 - `remote` : Anywhere you didnt 'init' or 'clone'
+-`push` : push origin master
